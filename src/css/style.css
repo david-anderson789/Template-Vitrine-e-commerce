@@ -1,0 +1,23 @@
+.navbar .navbar-nav .nav-link{
+    color: #fff;
+}
+@font-face{
+    font-family: Open Sans;
+    src:url(fonts/opensans-regular-webfont.woff)
+}
+*{
+    font-family: "Oen Sans", sans-serif;
+}
+hr{
+    width: 200px;
+    height: 1px;
+    background-color: #757570;
+    margin-bottom: 70px;
+    border: none;
+}
+.form-style{
+    color: #fff;
+}
+ul{
+    list-style: none;
+}
